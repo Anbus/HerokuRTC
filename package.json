@@ -1,6 +1,0 @@
-{
-    "scripts": {
-  "start": "node myServer.js"
-},
-"main": "myServer.js"
-}
